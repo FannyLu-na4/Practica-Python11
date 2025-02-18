@@ -1,0 +1,5 @@
+dato1=float(input("radio del circulo:"))
+perimetro=float(dato1*dato1*3.1416)
+area= float(2*3.1416*dato1)
+print("el perimetro es:",perimetro)
+print("el area es:",area)
